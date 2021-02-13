@@ -3,3 +3,6 @@ build:
 
 run:
 	java -cp ./bin Solution
+
+clean:
+	rm -rf ./bin
